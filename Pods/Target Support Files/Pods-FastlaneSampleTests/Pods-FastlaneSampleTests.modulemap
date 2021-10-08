@@ -1,0 +1,6 @@
+framework module Pods_FastlaneSampleTests {
+  umbrella header "Pods-FastlaneSampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

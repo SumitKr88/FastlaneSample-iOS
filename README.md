@@ -1,2 +1,2 @@
 # FastlaneSample-iOS
-Sample iOS app to test fastlane scripts
+Sample iOS project to reference fastlane workflow.
